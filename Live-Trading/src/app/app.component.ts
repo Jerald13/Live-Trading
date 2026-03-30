@@ -12,4 +12,5 @@ export class AppComponent {
   title = 'Live-Trading';
   //Button
   //Breadcrumbs
+  //Pagination
 }
